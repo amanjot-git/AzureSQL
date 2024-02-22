@@ -1,27 +1,16 @@
 # 📄 About
 This repository offers an engaging hands-on adventure, guiding you through practical labs and projects designed to excel in data fundamentals and Azure SQL. It covers the utilization of Azure SQL, Azure Blob Storage, Azure Cosmos DB, and real-time analytics, sourced from Microsoft's Learning platform.
 
-# 📑 Courses
-✅ 01. Microsoft Azure Data Fundamentals: Explore core data concepts
-✅ 02. Microsoft Azure Data Fundamentals: Explore relational data in Azure
-✅ 03. Azure SQL fundamentals (Deploy Azure SQl databse, Load data, Data classification, dynamic data masking, and SQL audit)
-✅ 04. Microsoft Azure Data Fundamentals: Explore non-relational data in Azure (Azure blob storage, Azure DataLake Storage Gen2, Azure Files, Azure Tables, Azure storage, Azure Cosmos DB)
-✅ 05. Microsoft Azure Data Fundamentals: Explore data analytics in Azure (Azure Synapse Analytics, Azure Stream Analytics, Microsoft Fabric, Power BI)
+# 📑 Courses and Links
+## ✅ 01. [Microsoft Azure Data Fundamentals: Explore core data concepts](https://learn.microsoft.com/en-gb/training/paths/azure-data-fundamentals-explore-core-data-concepts/)
+## ✅ 02. [Microsoft Azure Data Fundamentals: Explore relational data in Azure](https://learn.microsoft.com/en-gb/training/paths/azure-data-fundamentals-explore-relational-data/)
+## ✅ 03. [Azure SQL fundamentals](https://learn.microsoft.com/en-gb/training/paths/azure-sql-fundamentals/)
+## ✅ 04. [Microsoft Azure Data Fundamentals: Explore non-relational data in Azure (Azure blob storage, Azure DataLake Storage Gen2, Azure Files, Azure Tables, Azure storage, Azure Cosmos DB)](https://learn.microsoft.com/en-gb/training/paths/azure-data-fundamentals-explore-non-relational-data/)
+## ✅ 05. [Microsoft Azure Data Fundamentals: Explore data analytics in Azure (Azure Synapse Analytics, Azure Stream Analytics, Microsoft Fabric, Power BI)](https://learn.microsoft.com/en-gb/training/paths/azure-data-fundamentals-explore-data-warehouse-analytics/)
 
 # 🛠️ Tools
 The following tools can be used to complete this learning path:
 (Azure portal, SSMS, Azure Data Studio, Azure SQL , Azure storage,  Azure Synapse Analytics, Azure Stream Analytics, Microsoft Fabric, Power BI)
-
-# 📖 Links
-✅ 01. [Microsoft Azure Data Fundamentals: Explore core data concepts](https://learn.microsoft.com/en-gb/training/paths/azure-data-fundamentals-explore-core-data-concepts/)
-✅ 02. Microsoft Azure Data Fundamentals: Explore relational data in Azure 
-    [( https://learn.microsoft.com/en-gb/training/paths/azure-data-fundamentals-explore-relational-data/)]
-✅ 03. Azure SQL fundamentals (Deploy Azure SQl databse, Load data, Secure network, Configure authentication, Protect your data, Manage security, Manage security and Microsoft Defender for CloudData classification, dynamic data masking,     and SQL audit 
-    [(https://learn.microsoft.com/en-gb/training/paths/azure-sql-fundamentals/)]
-✅ 04. Microsoft Azure Data Fundamentals: Explore non-relational data in Azure (Azure blob storage, Azure DataLake Storage Gen2, Azure Files, Azure Tables, Azure storage, Azure Cosmos DB)
-    [(https://learn.microsoft.com/en-gb/training/paths/azure-data-fundamentals-explore-non-relational-data/)]
-✅ 05. Microsoft Azure Data Fundamentals: Explore data analytics in Azure (Azure Synapse Analytics, Azure Stream Analytics, Microsoft Fabric, Power BI)
-    [(https://learn.microsoft.com/en-gb/training/paths/azure-data-fundamentals-explore-data-warehouse-analytics/)]
        
 # 📂 Projects
 Exploring AdventureWorks database on Azure SQL [(https://microsoftlearning.github.io/DP-900T00A-Azure-Data-Fundamentals/Instructions/Labs/dp900-01-sql-lab.html)]
