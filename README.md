@@ -1,4 +1,4 @@
-📄 About
+# 📄 About
 This repository offers an engaging hands-on adventure, guiding you through practical labs and projects designed to excel in data fundamentals and Azure SQL. It covers the utilization of Azure SQL, Azure Blob Storage, Azure Cosmos DB, and real-time analytics, sourced from Microsoft's Learning platform.
 
 📑 Courses
