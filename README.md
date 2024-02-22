@@ -13,11 +13,11 @@ This repository offers an engaging hands-on adventure, guiding you through pract
 #### (Azure portal, SSMS, Azure Data Studio, Azure SQL , Azure storage,  Azure Synapse Analytics, Azure Stream Analytics, Microsoft Fabric, Power BI)
        
 ## 📂 Projects
-#### Exploring AdventureWorks database on Azure SQL [(https://microsoftlearning.github.io/DP-900T00A-Azure-Data-Fundamentals/Instructions/Labs/dp900-01-sql-lab.html)]
-#### Deploy SQL Database [(https://learn.microsoft.com/en-gb/training/modules/azure-sql-deploy-configure/3-exercise-deploy-database)]
-#### Configure Azure SQL Database and Azure SQL Managed Instance [(https://learn.microsoft.com/en-gb/training/modules/azure-sql-deploy-configure/5-configure-database)]
-#### Verify SQL Database using Azure Data Studio or SSMS [(https://learn.microsoft.com/en-gb/training/modules/azure-sql-deploy-configure/4-exercise-verify-database)]
-#### Load Data into Azure SQL [(https://learn.microsoft.com/en-gb/training/modules/azure-sql-deploy-configure/8-exercise-load-data)]
+#### ✅ Exploring AdventureWorks database on Azure SQL [(https://microsoftlearning.github.io/DP-900T00A-Azure-Data-Fundamentals/Instructions/Labs/dp900-01-sql-lab.html)]
+#### ✅ Deploy SQL Database [(https://learn.microsoft.com/en-gb/training/modules/azure-sql-deploy-configure/3-exercise-deploy-database)]
+#### ✅ Configure Azure SQL Database and Azure SQL Managed Instance [(https://learn.microsoft.com/en-gb/training/modules/azure-sql-deploy-configure/5-configure-database)]
+#### ✅ Verify SQL Database using Azure Data Studio or SSMS [(https://learn.microsoft.com/en-gb/training/modules/azure-sql-deploy-configure/4-exercise-verify-database)]
+#### ✅ Load Data into Azure SQL [(https://learn.microsoft.com/en-gb/training/modules/azure-sql-deploy-configure/8-exercise-load-data)]
 #### Data classification, dynamic data masking, and SQL audit [(https://learn.microsoft.com/en-gb/training/modules/azure-sql-secure-data/9-exercise-data-classification-masking-audit]
 #### Azure storage account [(https://microsoftlearning.github.io/DP-900T00A-Azure-Data-Fundamentals/Instructions/Labs/dp900-02-storage-lab.html)]
 #### Azure Cosmos DB [(https://microsoftlearning.github.io/DP-900T00A-Azure-Data-Fundamentals/Instructions/Labs/dp900-03-cosmos-lab.html)]
