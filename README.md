@@ -9,8 +9,8 @@ This repository offers an engaging hands-on adventure, guiding you through pract
 #### ✅ 05. [Microsoft Azure Data Fundamentals: Explore data analytics in Azure (Azure Synapse Analytics, Azure Stream Analytics, Microsoft Fabric, Power BI)](https://learn.microsoft.com/en-gb/training/paths/azure-data-fundamentals-explore-data-warehouse-analytics/)
 
 ## 🛠️ Tools
-The following tools can be used to complete this learning path:
-(Azure portal, SSMS, Azure Data Studio, Azure SQL , Azure storage,  Azure Synapse Analytics, Azure Stream Analytics, Microsoft Fabric, Power BI)
+#### The following tools can be used to complete this learning path:
+#### (Azure portal, SSMS, Azure Data Studio, Azure SQL , Azure storage,  Azure Synapse Analytics, Azure Stream Analytics, Microsoft Fabric, Power BI)
        
 ## 📂 Projects
 Exploring AdventureWorks database on Azure SQL [(https://microsoftlearning.github.io/DP-900T00A-Azure-Data-Fundamentals/Instructions/Labs/dp900-01-sql-lab.html)]
